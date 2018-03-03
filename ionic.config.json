@@ -1,0 +1,8 @@
+{
+  "name": "poesiaportatil",
+  "app_id": "71ea5ece",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
